@@ -1,7 +1,7 @@
 # &#128187; Prueba - Desarrollo de interfaces interactivas con framework Vue &#128511;
-En esta prueba se validaron nuestros conocimientos del framework Vue Js obtenidos a lo largo de este módulo. Para lograrlo, se utilizó todo lo aprendido en las unidades para crear una aplicación con temática de la serie Pokémon, haciendo uso de la [PokéAPI](https://pokeapi.co/).
+En esta prueba se validaron nuestros conocimientos del framework Vue Js obtenidos a lo largo de este módulo. Para lograrlo, se utilizó todo lo aprendido en las unidades para crear una aplicación con temática de la serie Pokémon, haciendo uso de la [PokéAPI](https://pokeapi.co/){:target="_blank"}.
 
-- Enlace a la aplicación de Vercel: [¿Quién es ese Pokémon?](https://pokemonvue.vercel.app/)
+- Enlace a la aplicación usando Vercel: [¿Quién es ese Pokémon?](https://pokemonvue.vercel.app/){:target="_blank"}
 
 ## &#128640; Tabla de contenidos
 - [Descripción](#-descripción)
